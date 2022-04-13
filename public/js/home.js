@@ -101,7 +101,7 @@ if(cashIn.length) {
            `    
     }
 
-      Document.getElementById("cash-in-list").innerHTML = cashInHtml;
+      document.getElementById("cash-in-list").innerHTML = cashInHtml;
    }
 }
 
@@ -140,7 +140,7 @@ if(cashIn.length) {
            `    
     }
 
-      Document.getElementById("cash-out-list").innerHTML = cashInHtml;
+      document.getElementById("cash-out-list").innerHTML = cashInHtml;
    }
 }
 
